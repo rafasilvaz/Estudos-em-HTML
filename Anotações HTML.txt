@@ -159,7 +159,13 @@ Pode reiniciar todos os campos do form com um INPUT do tipo RESET
 Ex.: O modelo do carro que estamos comprando
 
 Não dá pra escolher dois, então há necessidades da decisão entre uma das opções.
+.
 
+-INPUT CHECKBOX
 
+Checkbox é similar ao radio 
 
+Temos que selecionar uma ou mais opções, e também cancelar a seleção de uma opção
+
+Ex.: Os opcionais de um carro
 
