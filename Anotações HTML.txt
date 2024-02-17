@@ -168,4 +168,74 @@ Checkbox é similar ao radio
 Temos que selecionar uma ou mais opções, e também cancelar a seleção de uma opção
 
 Ex.: Os opcionais de um carro
+.
+
+-INPUT DATA 
+
+É utilizado para selecionar uma data 
+
+Temos um calendário que nos auxilia para datas passadas ou futuras
+
+Podemos também preencher o valor digitando
+.
+
+-INPUT PARA ARQUIVOS
+
+Pode ser criado com o type igual a file 
+
+Assim podemos enviar um arquivo ao servidor
+
+Ex.: Imagens ou pdfs
+.
+
+-INPUTS PARA NÚMEROS
+
+configurando o type para NUMBER temos um imput que só aceita dígitos
+
+Este input possui setas, que nos permite alterar o número através de cliques
+.
+
+-INPUT PARA E-MAILS
+
+É similar ao de texto
+
+Porém quando enviamos o formulário temos uma validação
+
+Checa se o texto tem o padrão de um e-mail, verificando o @ por exemplo
+.
+
+-ATRIBUTO VALUE
+
+Podemos definir um valor ao input alvo
+
+Como se o usuário já tivesse preenchido algo
+
+Muito utilizado quando temos um valor padrão
+.
+
+-ATRIBUTO DISABLED
+
+É utilizado para bloquear um input
+
+Então não podemos mais digitar neste input
+
+Útil quando não queremos que o usuário preencha um determinado input
+.
+
+-ATRIBUTO PLACEHOLDER
+
+Podemos adicionar dicas para o usuários do sistema
+
+Será exibida no próprio input 
+
+Ao começar a preencher com algum valor, a dica some e o nosso valor que fica 
+.
+
+-ATRIBUTO REQUIRED
+
+Força o preenchimento de algum campos
+
+Se tentar enviar o form sem um valor no campo com required, receberemos um alerta da página
+
+Isso é um tipo de validação HMTL
 
